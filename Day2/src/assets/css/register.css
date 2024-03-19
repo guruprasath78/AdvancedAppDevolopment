@@ -1,0 +1,33 @@
+.register-all{
+    /* background-color: rgb(252, 213, 220); */
+    background-size: cover;
+    height: 70vh;
+    width: 100%;
+    text-align: center;
+}
+.reg-container{
+    background-color: rgb(237, 235, 236);
+    height: 80%;
+    width: 40%;
+    margin-left: 30%;
+    padding-top: 1%;
+    margin-top: 05%;
+}
+.reg-fields{
+    /* background-color: aqua; */
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 5%;
+    height: 50vh;
+    margin-top: 0%;
+}
+.reg-fields input{
+    height: 45px;
+    width: 65%;
+}
+.reg-fields button{
+    height: 45px;
+    width: 65%;
+    background-color: rgb(59, 169, 59);
+    border-color:rgb(59,169,59);
+}
