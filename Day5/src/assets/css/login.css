@@ -1,0 +1,48 @@
+.login-all {
+   
+    height: 110vh;
+    width: 100%;
+    text-align: center;
+    margin-top: 5vh;
+}
+
+.login-container {
+    background-color: rgb(237, 235, 236);
+    height: 70%;
+    width: 40%;
+    margin-left: 30%;
+    padding-top: 1%;
+    margin-top: 5%;
+    border-radius: 1vh;
+}
+button{
+    border-radius: 1vh;
+    margin-top: 3vh;
+}
+span.error {
+    color: tomato;
+}
+input{
+    border-radius: 1vh;
+    padding: 10px;
+}
+.login-fields {
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 5%;
+    height: 50vh;
+    margin-top: 0%;
+    border-radius: 10%;
+}
+
+.login-fields input {
+    height: 45px;
+    width: 65%;
+}
+
+.login-fields button {
+    height: 45px;
+    width: 65%;
+    background-color: rgb(59, 169, 59);
+    border-color: rgb(59, 169, 59);
+}
