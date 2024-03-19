@@ -1,0 +1,38 @@
+.contact-entire{
+    /* background-color: rgb(236, 233, 233); */
+    height: 83vh;
+    padding-top: 5vh;
+    font-size: 10pt;
+    /* background-image: url('../images/wallpaper1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+.contact-left{
+    width: 45%;
+    float: left;
+    height: 75vh;
+    /* background-color: red; */
+}
+
+.contactleft-image{
+    margin-left: 20%;
+        margin-top: 4%;
+        background-image: url('../../assets/images/gift.jpeg');
+        background-size: cover;
+        background-position: center;
+        width: 60%;
+        height: 70vh;
+}
+.contact-right{
+    /* background-color: rgb(234, 233, 232); */
+    width: 55%;
+    float: right;
+    height: 82vh;
+
+}
+/* .contact-right h1,h2,h3{
+    padding: 2vh;
+} */
+.contact-content{
+    padding: 4vh;
+}

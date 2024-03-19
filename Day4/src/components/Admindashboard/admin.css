@@ -1,0 +1,25 @@
+.gift-all{
+    height: 100vh;
+}
+.gift-left{
+    width: 20%;
+    float: left;
+    color: black;
+    background-color: rgb(232, 234, 234);
+    height: 100vh;
+    overflow-y: scroll;
+}
+.gift-right{
+    width: 80%;
+    float: right;
+    height: 100vh;
+    overflow-y: scroll;
+}
+.gift-sidebar-details{
+    height: 5vh;
+    width: 100%;
+    margin-bottom: 5%;
+    text-align: center;
+    padding-top: 6%;
+    font-size:large;
+}
